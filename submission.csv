@@ -153,7 +153,7 @@ id,NObeyesdad
 20909,Obesity_Type_I
 20910,Obesity_Type_I
 20911,Obesity_Type_III
-20912,Obesity_Type_I
+20912,Overweight_Level_II
 20913,Normal_Weight
 20914,Insufficient_Weight
 20915,Obesity_Type_II
@@ -205,7 +205,7 @@ id,NObeyesdad
 20961,Insufficient_Weight
 20962,Normal_Weight
 20963,Insufficient_Weight
-20964,Overweight_Level_I
+20964,Normal_Weight
 20965,Normal_Weight
 20966,Obesity_Type_I
 20967,Obesity_Type_I
@@ -300,7 +300,7 @@ id,NObeyesdad
 21056,Obesity_Type_II
 21057,Overweight_Level_II
 21058,Normal_Weight
-21059,Normal_Weight
+21059,Overweight_Level_I
 21060,Obesity_Type_I
 21061,Obesity_Type_II
 21062,Insufficient_Weight
@@ -475,7 +475,7 @@ id,NObeyesdad
 21231,Obesity_Type_II
 21232,Obesity_Type_II
 21233,Normal_Weight
-21234,Obesity_Type_I
+21234,Overweight_Level_II
 21235,Normal_Weight
 21236,Obesity_Type_III
 21237,Insufficient_Weight
@@ -740,7 +740,7 @@ id,NObeyesdad
 21496,Obesity_Type_I
 21497,Normal_Weight
 21498,Insufficient_Weight
-21499,Normal_Weight
+21499,Overweight_Level_I
 21500,Obesity_Type_III
 21501,Obesity_Type_III
 21502,Obesity_Type_III
@@ -827,7 +827,7 @@ id,NObeyesdad
 21583,Insufficient_Weight
 21584,Obesity_Type_I
 21585,Overweight_Level_I
-21586,Overweight_Level_II
+21586,Obesity_Type_I
 21587,Obesity_Type_II
 21588,Overweight_Level_I
 21589,Obesity_Type_I
@@ -902,7 +902,7 @@ id,NObeyesdad
 21658,Overweight_Level_I
 21659,Obesity_Type_I
 21660,Overweight_Level_II
-21661,Normal_Weight
+21661,Overweight_Level_I
 21662,Obesity_Type_II
 21663,Obesity_Type_II
 21664,Overweight_Level_I
@@ -1095,7 +1095,7 @@ id,NObeyesdad
 21851,Insufficient_Weight
 21852,Obesity_Type_I
 21853,Normal_Weight
-21854,Overweight_Level_I
+21854,Normal_Weight
 21855,Insufficient_Weight
 21856,Obesity_Type_III
 21857,Overweight_Level_I
@@ -1278,7 +1278,7 @@ id,NObeyesdad
 22034,Normal_Weight
 22035,Overweight_Level_II
 22036,Normal_Weight
-22037,Overweight_Level_I
+22037,Normal_Weight
 22038,Obesity_Type_I
 22039,Normal_Weight
 22040,Obesity_Type_II
@@ -1415,7 +1415,7 @@ id,NObeyesdad
 22171,Obesity_Type_III
 22172,Normal_Weight
 22173,Obesity_Type_I
-22174,Overweight_Level_I
+22174,Overweight_Level_II
 22175,Insufficient_Weight
 22176,Obesity_Type_III
 22177,Obesity_Type_III
@@ -1784,7 +1784,7 @@ id,NObeyesdad
 22540,Normal_Weight
 22541,Obesity_Type_III
 22542,Obesity_Type_II
-22543,Obesity_Type_I
+22543,Overweight_Level_II
 22544,Overweight_Level_II
 22545,Obesity_Type_III
 22546,Insufficient_Weight
@@ -1887,7 +1887,7 @@ id,NObeyesdad
 22643,Insufficient_Weight
 22644,Obesity_Type_I
 22645,Obesity_Type_I
-22646,Normal_Weight
+22646,Insufficient_Weight
 22647,Insufficient_Weight
 22648,Insufficient_Weight
 22649,Overweight_Level_II
@@ -1990,7 +1990,7 @@ id,NObeyesdad
 22746,Obesity_Type_II
 22747,Normal_Weight
 22748,Obesity_Type_II
-22749,Normal_Weight
+22749,Overweight_Level_I
 22750,Obesity_Type_II
 22751,Overweight_Level_II
 22752,Obesity_Type_I
@@ -2463,7 +2463,7 @@ id,NObeyesdad
 23219,Normal_Weight
 23220,Obesity_Type_II
 23221,Obesity_Type_I
-23222,Normal_Weight
+23222,Insufficient_Weight
 23223,Normal_Weight
 23224,Obesity_Type_II
 23225,Obesity_Type_III
@@ -2917,7 +2917,7 @@ id,NObeyesdad
 23673,Insufficient_Weight
 23674,Normal_Weight
 23675,Obesity_Type_I
-23676,Obesity_Type_II
+23676,Obesity_Type_I
 23677,Obesity_Type_I
 23678,Obesity_Type_I
 23679,Obesity_Type_II
@@ -3304,7 +3304,7 @@ id,NObeyesdad
 24060,Overweight_Level_II
 24061,Obesity_Type_III
 24062,Obesity_Type_II
-24063,Obesity_Type_I
+24063,Overweight_Level_II
 24064,Obesity_Type_I
 24065,Insufficient_Weight
 24066,Normal_Weight
@@ -3445,7 +3445,7 @@ id,NObeyesdad
 24201,Obesity_Type_I
 24202,Overweight_Level_II
 24203,Obesity_Type_II
-24204,Overweight_Level_II
+24204,Overweight_Level_I
 24205,Obesity_Type_II
 24206,Obesity_Type_I
 24207,Obesity_Type_II
@@ -3470,7 +3470,7 @@ id,NObeyesdad
 24226,Obesity_Type_III
 24227,Obesity_Type_I
 24228,Overweight_Level_II
-24229,Normal_Weight
+24229,Overweight_Level_I
 24230,Normal_Weight
 24231,Obesity_Type_II
 24232,Obesity_Type_III
@@ -3526,7 +3526,7 @@ id,NObeyesdad
 24282,Insufficient_Weight
 24283,Insufficient_Weight
 24284,Obesity_Type_III
-24285,Overweight_Level_II
+24285,Overweight_Level_I
 24286,Normal_Weight
 24287,Obesity_Type_I
 24288,Obesity_Type_II
@@ -3562,7 +3562,7 @@ id,NObeyesdad
 24318,Overweight_Level_II
 24319,Obesity_Type_II
 24320,Normal_Weight
-24321,Obesity_Type_I
+24321,Overweight_Level_II
 24322,Overweight_Level_I
 24323,Insufficient_Weight
 24324,Obesity_Type_II
@@ -3589,7 +3589,7 @@ id,NObeyesdad
 24345,Obesity_Type_II
 24346,Obesity_Type_II
 24347,Overweight_Level_II
-24348,Overweight_Level_I
+24348,Overweight_Level_II
 24349,Obesity_Type_I
 24350,Obesity_Type_I
 24351,Overweight_Level_I
@@ -3937,7 +3937,7 @@ id,NObeyesdad
 24693,Obesity_Type_II
 24694,Obesity_Type_III
 24695,Obesity_Type_III
-24696,Overweight_Level_II
+24696,Obesity_Type_I
 24697,Overweight_Level_II
 24698,Obesity_Type_II
 24699,Obesity_Type_II
@@ -4191,7 +4191,7 @@ id,NObeyesdad
 24947,Obesity_Type_III
 24948,Obesity_Type_II
 24949,Overweight_Level_II
-24950,Overweight_Level_I
+24950,Normal_Weight
 24951,Obesity_Type_I
 24952,Normal_Weight
 24953,Obesity_Type_III
@@ -4275,7 +4275,7 @@ id,NObeyesdad
 25031,Overweight_Level_I
 25032,Obesity_Type_I
 25033,Overweight_Level_I
-25034,Obesity_Type_I
+25034,Overweight_Level_II
 25035,Obesity_Type_III
 25036,Obesity_Type_III
 25037,Obesity_Type_II
@@ -4366,7 +4366,7 @@ id,NObeyesdad
 25122,Insufficient_Weight
 25123,Obesity_Type_III
 25124,Obesity_Type_III
-25125,Overweight_Level_II
+25125,Overweight_Level_I
 25126,Obesity_Type_I
 25127,Normal_Weight
 25128,Obesity_Type_III
@@ -4874,7 +4874,7 @@ id,NObeyesdad
 25630,Overweight_Level_I
 25631,Obesity_Type_II
 25632,Obesity_Type_I
-25633,Overweight_Level_I
+25633,Overweight_Level_II
 25634,Insufficient_Weight
 25635,Obesity_Type_I
 25636,Obesity_Type_III
@@ -4991,7 +4991,7 @@ id,NObeyesdad
 25747,Insufficient_Weight
 25748,Normal_Weight
 25749,Overweight_Level_I
-25750,Obesity_Type_I
+25750,Overweight_Level_II
 25751,Obesity_Type_III
 25752,Obesity_Type_II
 25753,Overweight_Level_I
@@ -5088,7 +5088,7 @@ id,NObeyesdad
 25844,Obesity_Type_III
 25845,Overweight_Level_II
 25846,Insufficient_Weight
-25847,Overweight_Level_II
+25847,Obesity_Type_I
 25848,Obesity_Type_I
 25849,Insufficient_Weight
 25850,Normal_Weight
@@ -5102,7 +5102,7 @@ id,NObeyesdad
 25858,Overweight_Level_II
 25859,Insufficient_Weight
 25860,Obesity_Type_I
-25861,Overweight_Level_II
+25861,Overweight_Level_I
 25862,Obesity_Type_III
 25863,Insufficient_Weight
 25864,Obesity_Type_I
@@ -5133,7 +5133,7 @@ id,NObeyesdad
 25889,Obesity_Type_I
 25890,Obesity_Type_II
 25891,Overweight_Level_I
-25892,Obesity_Type_II
+25892,Obesity_Type_I
 25893,Normal_Weight
 25894,Overweight_Level_I
 25895,Normal_Weight
@@ -5172,7 +5172,7 @@ id,NObeyesdad
 25928,Obesity_Type_II
 25929,Overweight_Level_I
 25930,Obesity_Type_III
-25931,Normal_Weight
+25931,Overweight_Level_I
 25932,Insufficient_Weight
 25933,Insufficient_Weight
 25934,Obesity_Type_I
@@ -5245,7 +5245,7 @@ id,NObeyesdad
 26001,Obesity_Type_I
 26002,Obesity_Type_II
 26003,Overweight_Level_II
-26004,Normal_Weight
+26004,Overweight_Level_I
 26005,Obesity_Type_III
 26006,Insufficient_Weight
 26007,Obesity_Type_I
@@ -5654,7 +5654,7 @@ id,NObeyesdad
 26410,Obesity_Type_I
 26411,Obesity_Type_III
 26412,Obesity_Type_I
-26413,Overweight_Level_II
+26413,Overweight_Level_I
 26414,Normal_Weight
 26415,Obesity_Type_I
 26416,Obesity_Type_II
@@ -5832,7 +5832,7 @@ id,NObeyesdad
 26588,Normal_Weight
 26589,Obesity_Type_II
 26590,Obesity_Type_III
-26591,Obesity_Type_I
+26591,Overweight_Level_I
 26592,Obesity_Type_I
 26593,Obesity_Type_I
 26594,Obesity_Type_II
@@ -5963,7 +5963,7 @@ id,NObeyesdad
 26719,Obesity_Type_I
 26720,Obesity_Type_II
 26721,Normal_Weight
-26722,Overweight_Level_II
+26722,Overweight_Level_I
 26723,Overweight_Level_I
 26724,Obesity_Type_I
 26725,Overweight_Level_II
@@ -6241,7 +6241,7 @@ id,NObeyesdad
 26997,Normal_Weight
 26998,Obesity_Type_III
 26999,Normal_Weight
-27000,Overweight_Level_I
+27000,Overweight_Level_II
 27001,Obesity_Type_II
 27002,Obesity_Type_III
 27003,Normal_Weight
@@ -6285,7 +6285,7 @@ id,NObeyesdad
 27041,Normal_Weight
 27042,Obesity_Type_III
 27043,Insufficient_Weight
-27044,Overweight_Level_I
+27044,Normal_Weight
 27045,Obesity_Type_III
 27046,Obesity_Type_III
 27047,Overweight_Level_I
@@ -6623,7 +6623,7 @@ id,NObeyesdad
 27379,Overweight_Level_I
 27380,Obesity_Type_I
 27381,Obesity_Type_I
-27382,Normal_Weight
+27382,Insufficient_Weight
 27383,Overweight_Level_I
 27384,Overweight_Level_II
 27385,Obesity_Type_II
@@ -6636,7 +6636,7 @@ id,NObeyesdad
 27392,Overweight_Level_I
 27393,Overweight_Level_II
 27394,Overweight_Level_I
-27395,Overweight_Level_I
+27395,Overweight_Level_II
 27396,Normal_Weight
 27397,Overweight_Level_II
 27398,Insufficient_Weight
@@ -6731,7 +6731,7 @@ id,NObeyesdad
 27487,Normal_Weight
 27488,Overweight_Level_I
 27489,Insufficient_Weight
-27490,Normal_Weight
+27490,Overweight_Level_II
 27491,Obesity_Type_III
 27492,Insufficient_Weight
 27493,Overweight_Level_II
@@ -6745,7 +6745,7 @@ id,NObeyesdad
 27501,Overweight_Level_II
 27502,Obesity_Type_II
 27503,Obesity_Type_III
-27504,Obesity_Type_I
+27504,Overweight_Level_II
 27505,Obesity_Type_II
 27506,Obesity_Type_II
 27507,Overweight_Level_I
@@ -6789,7 +6789,7 @@ id,NObeyesdad
 27545,Obesity_Type_II
 27546,Obesity_Type_III
 27547,Obesity_Type_II
-27548,Overweight_Level_I
+27548,Normal_Weight
 27549,Normal_Weight
 27550,Obesity_Type_II
 27551,Obesity_Type_II
@@ -7078,7 +7078,7 @@ id,NObeyesdad
 27834,Obesity_Type_III
 27835,Overweight_Level_I
 27836,Obesity_Type_II
-27837,Insufficient_Weight
+27837,Normal_Weight
 27838,Obesity_Type_I
 27839,Normal_Weight
 27840,Obesity_Type_III
@@ -7266,7 +7266,7 @@ id,NObeyesdad
 28022,Obesity_Type_II
 28023,Obesity_Type_I
 28024,Overweight_Level_II
-28025,Overweight_Level_II
+28025,Overweight_Level_I
 28026,Obesity_Type_III
 28027,Insufficient_Weight
 28028,Obesity_Type_I
@@ -7482,7 +7482,7 @@ id,NObeyesdad
 28238,Insufficient_Weight
 28239,Obesity_Type_III
 28240,Overweight_Level_I
-28241,Overweight_Level_I
+28241,Overweight_Level_II
 28242,Obesity_Type_I
 28243,Obesity_Type_I
 28244,Obesity_Type_III
@@ -7496,7 +7496,7 @@ id,NObeyesdad
 28252,Insufficient_Weight
 28253,Obesity_Type_III
 28254,Obesity_Type_III
-28255,Obesity_Type_II
+28255,Obesity_Type_I
 28256,Normal_Weight
 28257,Insufficient_Weight
 28258,Insufficient_Weight
@@ -8130,7 +8130,7 @@ id,NObeyesdad
 28886,Overweight_Level_I
 28887,Normal_Weight
 28888,Obesity_Type_II
-28889,Insufficient_Weight
+28889,Normal_Weight
 28890,Obesity_Type_II
 28891,Overweight_Level_I
 28892,Overweight_Level_I
@@ -8205,7 +8205,7 @@ id,NObeyesdad
 28961,Overweight_Level_II
 28962,Normal_Weight
 28963,Normal_Weight
-28964,Overweight_Level_II
+28964,Obesity_Type_I
 28965,Obesity_Type_II
 28966,Obesity_Type_II
 28967,Obesity_Type_III
@@ -8482,7 +8482,7 @@ id,NObeyesdad
 29238,Overweight_Level_I
 29239,Obesity_Type_II
 29240,Obesity_Type_III
-29241,Overweight_Level_II
+29241,Overweight_Level_I
 29242,Obesity_Type_III
 29243,Obesity_Type_III
 29244,Obesity_Type_II
@@ -8609,7 +8609,7 @@ id,NObeyesdad
 29365,Obesity_Type_II
 29366,Obesity_Type_I
 29367,Obesity_Type_II
-29368,Overweight_Level_I
+29368,Normal_Weight
 29369,Obesity_Type_III
 29370,Obesity_Type_III
 29371,Normal_Weight
@@ -8677,7 +8677,7 @@ id,NObeyesdad
 29433,Obesity_Type_II
 29434,Obesity_Type_III
 29435,Obesity_Type_II
-29436,Normal_Weight
+29436,Insufficient_Weight
 29437,Normal_Weight
 29438,Insufficient_Weight
 29439,Obesity_Type_II
@@ -8964,7 +8964,7 @@ id,NObeyesdad
 29720,Normal_Weight
 29721,Obesity_Type_III
 29722,Insufficient_Weight
-29723,Insufficient_Weight
+29723,Normal_Weight
 29724,Obesity_Type_I
 29725,Obesity_Type_II
 29726,Obesity_Type_III
@@ -8977,7 +8977,7 @@ id,NObeyesdad
 29733,Overweight_Level_II
 29734,Normal_Weight
 29735,Overweight_Level_I
-29736,Overweight_Level_II
+29736,Overweight_Level_I
 29737,Overweight_Level_II
 29738,Obesity_Type_I
 29739,Normal_Weight
@@ -9263,7 +9263,7 @@ id,NObeyesdad
 30019,Normal_Weight
 30020,Obesity_Type_III
 30021,Insufficient_Weight
-30022,Obesity_Type_I
+30022,Obesity_Type_III
 30023,Overweight_Level_I
 30024,Normal_Weight
 30025,Normal_Weight
@@ -9354,7 +9354,7 @@ id,NObeyesdad
 30110,Obesity_Type_I
 30111,Overweight_Level_II
 30112,Overweight_Level_I
-30113,Normal_Weight
+30113,Overweight_Level_I
 30114,Obesity_Type_III
 30115,Obesity_Type_III
 30116,Obesity_Type_II
@@ -9394,7 +9394,7 @@ id,NObeyesdad
 30150,Obesity_Type_I
 30151,Obesity_Type_I
 30152,Normal_Weight
-30153,Overweight_Level_I
+30153,Overweight_Level_II
 30154,Overweight_Level_II
 30155,Overweight_Level_II
 30156,Normal_Weight
@@ -9448,7 +9448,7 @@ id,NObeyesdad
 30204,Normal_Weight
 30205,Obesity_Type_II
 30206,Overweight_Level_II
-30207,Overweight_Level_I
+30207,Overweight_Level_II
 30208,Obesity_Type_III
 30209,Overweight_Level_I
 30210,Obesity_Type_III
@@ -9506,7 +9506,7 @@ id,NObeyesdad
 30262,Insufficient_Weight
 30263,Obesity_Type_II
 30264,Normal_Weight
-30265,Obesity_Type_I
+30265,Obesity_Type_II
 30266,Overweight_Level_II
 30267,Obesity_Type_II
 30268,Overweight_Level_II
@@ -9601,7 +9601,7 @@ id,NObeyesdad
 30357,Obesity_Type_I
 30358,Insufficient_Weight
 30359,Obesity_Type_I
-30360,Overweight_Level_II
+30360,Overweight_Level_I
 30361,Overweight_Level_I
 30362,Normal_Weight
 30363,Obesity_Type_I
@@ -9623,7 +9623,7 @@ id,NObeyesdad
 30379,Obesity_Type_II
 30380,Overweight_Level_II
 30381,Obesity_Type_II
-30382,Insufficient_Weight
+30382,Normal_Weight
 30383,Insufficient_Weight
 30384,Insufficient_Weight
 30385,Normal_Weight
@@ -9662,7 +9662,7 @@ id,NObeyesdad
 30418,Obesity_Type_III
 30419,Obesity_Type_I
 30420,Insufficient_Weight
-30421,Normal_Weight
+30421,Insufficient_Weight
 30422,Obesity_Type_III
 30423,Obesity_Type_I
 30424,Obesity_Type_III
@@ -9811,7 +9811,7 @@ id,NObeyesdad
 30567,Overweight_Level_I
 30568,Obesity_Type_I
 30569,Overweight_Level_II
-30570,Normal_Weight
+30570,Overweight_Level_I
 30571,Obesity_Type_III
 30572,Obesity_Type_II
 30573,Obesity_Type_II
@@ -9908,7 +9908,7 @@ id,NObeyesdad
 30664,Obesity_Type_II
 30665,Overweight_Level_I
 30666,Insufficient_Weight
-30667,Normal_Weight
+30667,Insufficient_Weight
 30668,Obesity_Type_III
 30669,Overweight_Level_II
 30670,Overweight_Level_II
@@ -9941,7 +9941,7 @@ id,NObeyesdad
 30697,Normal_Weight
 30698,Obesity_Type_I
 30699,Obesity_Type_I
-30700,Overweight_Level_I
+30700,Overweight_Level_II
 30701,Insufficient_Weight
 30702,Insufficient_Weight
 30703,Obesity_Type_III
@@ -9960,7 +9960,7 @@ id,NObeyesdad
 30716,Overweight_Level_II
 30717,Obesity_Type_III
 30718,Overweight_Level_II
-30719,Overweight_Level_II
+30719,Overweight_Level_I
 30720,Obesity_Type_I
 30721,Overweight_Level_II
 30722,Normal_Weight
@@ -9976,7 +9976,7 @@ id,NObeyesdad
 30732,Obesity_Type_III
 30733,Obesity_Type_III
 30734,Obesity_Type_I
-30735,Overweight_Level_II
+30735,Overweight_Level_I
 30736,Normal_Weight
 30737,Obesity_Type_II
 30738,Normal_Weight
@@ -10016,7 +10016,7 @@ id,NObeyesdad
 30772,Normal_Weight
 30773,Obesity_Type_II
 30774,Overweight_Level_I
-30775,Normal_Weight
+30775,Insufficient_Weight
 30776,Insufficient_Weight
 30777,Obesity_Type_I
 30778,Overweight_Level_I
@@ -10150,7 +10150,7 @@ id,NObeyesdad
 30906,Normal_Weight
 30907,Overweight_Level_II
 30908,Obesity_Type_I
-30909,Normal_Weight
+30909,Insufficient_Weight
 30910,Obesity_Type_I
 30911,Overweight_Level_I
 30912,Obesity_Type_I
@@ -10342,7 +10342,7 @@ id,NObeyesdad
 31098,Obesity_Type_II
 31099,Overweight_Level_II
 31100,Insufficient_Weight
-31101,Obesity_Type_I
+31101,Overweight_Level_II
 31102,Overweight_Level_II
 31103,Obesity_Type_II
 31104,Overweight_Level_I
@@ -10417,7 +10417,7 @@ id,NObeyesdad
 31173,Obesity_Type_I
 31174,Normal_Weight
 31175,Obesity_Type_II
-31176,Obesity_Type_I
+31176,Overweight_Level_II
 31177,Overweight_Level_II
 31178,Obesity_Type_II
 31179,Normal_Weight
@@ -10573,14 +10573,14 @@ id,NObeyesdad
 31329,Overweight_Level_I
 31330,Obesity_Type_II
 31331,Overweight_Level_I
-31332,Overweight_Level_I
-31333,Overweight_Level_II
+31332,Normal_Weight
+31333,Obesity_Type_II
 31334,Insufficient_Weight
 31335,Overweight_Level_II
 31336,Obesity_Type_I
 31337,Overweight_Level_I
 31338,Normal_Weight
-31339,Obesity_Type_I
+31339,Overweight_Level_II
 31340,Obesity_Type_III
 31341,Insufficient_Weight
 31342,Obesity_Type_III
@@ -10775,7 +10775,7 @@ id,NObeyesdad
 31531,Insufficient_Weight
 31532,Insufficient_Weight
 31533,Obesity_Type_III
-31534,Overweight_Level_II
+31534,Overweight_Level_I
 31535,Insufficient_Weight
 31536,Obesity_Type_I
 31537,Normal_Weight
@@ -10876,7 +10876,7 @@ id,NObeyesdad
 31632,Obesity_Type_I
 31633,Obesity_Type_III
 31634,Obesity_Type_I
-31635,Overweight_Level_II
+31635,Overweight_Level_I
 31636,Overweight_Level_I
 31637,Insufficient_Weight
 31638,Overweight_Level_I
@@ -10909,7 +10909,7 @@ id,NObeyesdad
 31665,Obesity_Type_III
 31666,Overweight_Level_II
 31667,Obesity_Type_II
-31668,Overweight_Level_I
+31668,Normal_Weight
 31669,Obesity_Type_III
 31670,Obesity_Type_I
 31671,Obesity_Type_I
@@ -11037,7 +11037,7 @@ id,NObeyesdad
 31793,Obesity_Type_I
 31794,Obesity_Type_I
 31795,Obesity_Type_III
-31796,Insufficient_Weight
+31796,Normal_Weight
 31797,Obesity_Type_II
 31798,Overweight_Level_I
 31799,Obesity_Type_II
@@ -11053,7 +11053,7 @@ id,NObeyesdad
 31809,Obesity_Type_II
 31810,Obesity_Type_III
 31811,Obesity_Type_II
-31812,Overweight_Level_I
+31812,Normal_Weight
 31813,Normal_Weight
 31814,Overweight_Level_II
 31815,Overweight_Level_I
@@ -11119,7 +11119,7 @@ id,NObeyesdad
 31875,Obesity_Type_II
 31876,Overweight_Level_II
 31877,Normal_Weight
-31878,Obesity_Type_I
+31878,Obesity_Type_II
 31879,Obesity_Type_III
 31880,Overweight_Level_I
 31881,Normal_Weight
@@ -11296,7 +11296,7 @@ id,NObeyesdad
 32052,Insufficient_Weight
 32053,Obesity_Type_I
 32054,Obesity_Type_I
-32055,Insufficient_Weight
+32055,Normal_Weight
 32056,Normal_Weight
 32057,Obesity_Type_I
 32058,Obesity_Type_I
@@ -11310,7 +11310,7 @@ id,NObeyesdad
 32066,Overweight_Level_I
 32067,Obesity_Type_III
 32068,Overweight_Level_II
-32069,Overweight_Level_I
+32069,Overweight_Level_II
 32070,Obesity_Type_III
 32071,Overweight_Level_II
 32072,Obesity_Type_III
@@ -11338,7 +11338,7 @@ id,NObeyesdad
 32094,Insufficient_Weight
 32095,Obesity_Type_I
 32096,Insufficient_Weight
-32097,Overweight_Level_I
+32097,Obesity_Type_I
 32098,Obesity_Type_I
 32099,Overweight_Level_II
 32100,Obesity_Type_II
@@ -11481,7 +11481,7 @@ id,NObeyesdad
 32237,Obesity_Type_I
 32238,Obesity_Type_II
 32239,Obesity_Type_II
-32240,Overweight_Level_II
+32240,Overweight_Level_I
 32241,Obesity_Type_II
 32242,Normal_Weight
 32243,Obesity_Type_III
@@ -11576,7 +11576,7 @@ id,NObeyesdad
 32332,Overweight_Level_I
 32333,Obesity_Type_III
 32334,Obesity_Type_II
-32335,Normal_Weight
+32335,Insufficient_Weight
 32336,Normal_Weight
 32337,Obesity_Type_I
 32338,Normal_Weight
@@ -11805,7 +11805,7 @@ id,NObeyesdad
 32561,Obesity_Type_III
 32562,Obesity_Type_I
 32563,Overweight_Level_I
-32564,Insufficient_Weight
+32564,Normal_Weight
 32565,Obesity_Type_II
 32566,Overweight_Level_II
 32567,Obesity_Type_III
@@ -11920,7 +11920,7 @@ id,NObeyesdad
 32676,Insufficient_Weight
 32677,Normal_Weight
 32678,Obesity_Type_II
-32679,Insufficient_Weight
+32679,Normal_Weight
 32680,Normal_Weight
 32681,Normal_Weight
 32682,Obesity_Type_I
@@ -11988,7 +11988,7 @@ id,NObeyesdad
 32744,Obesity_Type_III
 32745,Overweight_Level_I
 32746,Obesity_Type_III
-32747,Normal_Weight
+32747,Overweight_Level_I
 32748,Obesity_Type_II
 32749,Overweight_Level_I
 32750,Normal_Weight
@@ -12057,7 +12057,7 @@ id,NObeyesdad
 32813,Obesity_Type_III
 32814,Overweight_Level_II
 32815,Overweight_Level_I
-32816,Normal_Weight
+32816,Overweight_Level_II
 32817,Obesity_Type_III
 32818,Overweight_Level_I
 32819,Overweight_Level_I
@@ -12075,7 +12075,7 @@ id,NObeyesdad
 32831,Overweight_Level_I
 32832,Normal_Weight
 32833,Normal_Weight
-32834,Obesity_Type_III
+32834,Obesity_Type_I
 32835,Insufficient_Weight
 32836,Obesity_Type_I
 32837,Obesity_Type_III
@@ -12442,7 +12442,7 @@ id,NObeyesdad
 33198,Obesity_Type_I
 33199,Obesity_Type_III
 33200,Obesity_Type_III
-33201,Obesity_Type_I
+33201,Overweight_Level_II
 33202,Obesity_Type_I
 33203,Obesity_Type_III
 33204,Obesity_Type_II
@@ -12456,7 +12456,7 @@ id,NObeyesdad
 33212,Normal_Weight
 33213,Normal_Weight
 33214,Overweight_Level_II
-33215,Insufficient_Weight
+33215,Normal_Weight
 33216,Obesity_Type_III
 33217,Normal_Weight
 33218,Normal_Weight
@@ -12480,7 +12480,7 @@ id,NObeyesdad
 33236,Obesity_Type_I
 33237,Obesity_Type_II
 33238,Overweight_Level_II
-33239,Overweight_Level_I
+33239,Overweight_Level_II
 33240,Obesity_Type_II
 33241,Obesity_Type_III
 33242,Overweight_Level_I
@@ -12600,7 +12600,7 @@ id,NObeyesdad
 33356,Obesity_Type_III
 33357,Obesity_Type_III
 33358,Obesity_Type_I
-33359,Overweight_Level_I
+33359,Overweight_Level_II
 33360,Overweight_Level_I
 33361,Obesity_Type_I
 33362,Normal_Weight
@@ -12619,7 +12619,7 @@ id,NObeyesdad
 33375,Obesity_Type_III
 33376,Obesity_Type_I
 33377,Normal_Weight
-33378,Overweight_Level_II
+33378,Overweight_Level_I
 33379,Obesity_Type_III
 33380,Obesity_Type_II
 33381,Obesity_Type_III
@@ -12686,7 +12686,7 @@ id,NObeyesdad
 33442,Overweight_Level_I
 33443,Insufficient_Weight
 33444,Overweight_Level_II
-33445,Overweight_Level_I
+33445,Overweight_Level_II
 33446,Obesity_Type_II
 33447,Overweight_Level_II
 33448,Overweight_Level_I
@@ -12800,7 +12800,7 @@ id,NObeyesdad
 33556,Overweight_Level_I
 33557,Obesity_Type_III
 33558,Overweight_Level_II
-33559,Insufficient_Weight
+33559,Normal_Weight
 33560,Obesity_Type_I
 33561,Obesity_Type_III
 33562,Normal_Weight
@@ -12973,7 +12973,7 @@ id,NObeyesdad
 33729,Obesity_Type_III
 33730,Overweight_Level_II
 33731,Obesity_Type_I
-33732,Overweight_Level_I
+33732,Obesity_Type_I
 33733,Normal_Weight
 33734,Insufficient_Weight
 33735,Obesity_Type_II
@@ -13002,7 +13002,7 @@ id,NObeyesdad
 33758,Overweight_Level_II
 33759,Overweight_Level_I
 33760,Insufficient_Weight
-33761,Overweight_Level_II
+33761,Obesity_Type_II
 33762,Insufficient_Weight
 33763,Insufficient_Weight
 33764,Obesity_Type_II
@@ -13170,7 +13170,7 @@ id,NObeyesdad
 33926,Overweight_Level_II
 33927,Overweight_Level_II
 33928,Obesity_Type_III
-33929,Normal_Weight
+33929,Insufficient_Weight
 33930,Normal_Weight
 33931,Insufficient_Weight
 33932,Obesity_Type_I
@@ -13200,7 +13200,7 @@ id,NObeyesdad
 33956,Obesity_Type_III
 33957,Insufficient_Weight
 33958,Normal_Weight
-33959,Normal_Weight
+33959,Overweight_Level_I
 33960,Insufficient_Weight
 33961,Obesity_Type_I
 33962,Overweight_Level_I
@@ -13240,7 +13240,7 @@ id,NObeyesdad
 33996,Obesity_Type_III
 33997,Obesity_Type_III
 33998,Obesity_Type_I
-33999,Overweight_Level_II
+33999,Normal_Weight
 34000,Insufficient_Weight
 34001,Obesity_Type_I
 34002,Overweight_Level_I
@@ -13636,7 +13636,7 @@ id,NObeyesdad
 34392,Obesity_Type_III
 34393,Obesity_Type_II
 34394,Obesity_Type_II
-34395,Insufficient_Weight
+34395,Normal_Weight
 34396,Normal_Weight
 34397,Obesity_Type_III
 34398,Overweight_Level_II
@@ -13654,7 +13654,7 @@ id,NObeyesdad
 34410,Obesity_Type_I
 34411,Obesity_Type_I
 34412,Obesity_Type_I
-34413,Normal_Weight
+34413,Overweight_Level_I
 34414,Overweight_Level_II
 34415,Overweight_Level_I
 34416,Obesity_Type_III
